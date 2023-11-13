@@ -6,13 +6,13 @@ This will also provide requirements for what terms are needed in a Standard-Pers
 
 
 ## Needed: 
-Volunteer Operators: Map a few examples of their data to any of the SPDM candidates models, or even another such as Schema.org.
+- Volunteer Operators: Map a few examples of their data to any of the SPDM candidates models, or even another such as Schema.org.
 
-Developers: Evolve mapping and transformation techniques. 
+- Developers: Evolve mapping and transformation techniques. 
 
-Technical writers: Document all the parts. 
+- Technical writers: Document all the parts. 
 
-Early adopters: Create accounts on Operator services to see what data they collect and allow takeout
+- Early adopters: Create accounts on Operator services to see what data they collect and allow takeout
 
 These tasks are described as 'Issues' in this and other Repositories.
 
