@@ -17,7 +17,7 @@ This will also provide requirements for what terms are needed in a Standard-Pers
 These tasks are described as 'Issues' in this and other Repositories.
 
 ## Related Repositories:
-- PDM-Glosary
-- Mapping and Transformation
-- Input-Data-Models-and-Candidate-Terms
-- Linux-Foundation-iPDS
+- [PDM-Glosary]
+- [Mapping and Transformation]
+  - [Input-Data-Models-and-Candidate-Terms] (https://github.com/standard-personal-data-model/Input-Data-Models-and-Candidate-Terms)
+- Linux-Foundation-iPDS]
