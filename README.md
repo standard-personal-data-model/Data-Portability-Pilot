@@ -1,5 +1,5 @@
 # Data Portability Pilot
-### Real users port data from one Operator to another (via SPDM)!!
+### Goal: Real users port data from one Operator to another (via SPDM)!!
 This will allow Operators to assure users they can takeout their data *AND* import it into other Operator solutions, which should expand the market and help all Operators.  
 
 This will also provide requirements for what terms are needed in a Standard-Personal-Data-Model (SPDM).
